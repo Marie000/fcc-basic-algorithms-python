@@ -37,5 +37,3 @@ Of course the number of tests and time will vary, but the "OK" is what you are l
 I have included the license as found in the freeCodeCamp respository, which I assume is the proper thing to do. Feel free to correct me if there is any other credit I should give to the original material. 
 
 
-
-
