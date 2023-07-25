@@ -8,7 +8,7 @@ All the challenges are taken from the freeCodeCamp curriculum [fcc basic algorit
 
 I have solved the algorithms myself once, so hopefully it should all run properly. If you encounter any problems, do not hesitate to submit an issue to this repository. 
 
-I will probably continue to work on the more advanced algorithms too. 
+You can also get the [intermediate algorithm challenges](https://github.com/Marie000/fcc-intermediate-algorithms-python)
 
 ## How to use
 
