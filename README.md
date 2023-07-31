@@ -32,6 +32,10 @@ Of course the number of tests and time will vary, but the "OK" is what you are l
 + "the expected result"
 ```
 
+## Solutions
+
+I have included my solutions to each algorithm. They are not the only solution possible, and they are not necessarily the best solution. 
+
 ## License
 
 I have included the license as found in the freeCodeCamp respository, which I assume is the proper thing to do. Feel free to correct me if there is any other credit I should give to the original material. 
